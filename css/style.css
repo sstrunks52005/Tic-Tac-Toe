@@ -29,8 +29,8 @@ section {
   grid-template-columns: repeat(3, auto);
   width: 306px;
   margin: 10px auto;
-  background-color: darkred;
-  color: #04c0b2;
+  background-color: rgb(104, 5, 5);
+  color: #eff0aa;
 }
 
 .cell {
@@ -46,7 +46,7 @@ section {
 
 .game-status {
   font-size: 50px;
-  color: #d7a62f;
+  color: #ce9c27;
   margin: 20px auto;
 }
 
